@@ -1,6 +1,6 @@
-# New-Calculator
+s# New-Calculator
 A small app writen to teach myself coding in VB
-This has taken a week to write, coding a few bits then debugging each day. This is the econd version, written initially to debug the first version.
+This has taken a week to write, coding a few bits then debugging each day. This is the second version, written initially to debug the first version.
 
 Enter numbers followed by operators. Operators are math buttons to perform an action.
 Answers are only displayed when either another number button is pressed or the EQUALS button
